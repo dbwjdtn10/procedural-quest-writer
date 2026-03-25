@@ -1,0 +1,13 @@
+{
+  "name": "Procedural Quest Writer",
+  "short_name": "Quest Writer",
+  "description": "AI 퀘스트 체인 라이브 생성 데모",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "orientation": "any",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

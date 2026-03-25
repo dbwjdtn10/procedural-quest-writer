@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f0d060"/>
+      <stop offset="100%" style="stop-color:#a08520"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#0a0a0f"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" fill="url(#bg)"/>
+  <g transform="translate(12, 8)" fill="url(#gold)">
+    <!-- Scroll body -->
+    <rect x="6" y="8" width="28" height="32" rx="2" fill="none" stroke="url(#gold)" stroke-width="2"/>
+    <!-- Top roll -->
+    <rect x="4" y="4" width="32" height="8" rx="4" opacity="0.8"/>
+    <!-- Bottom roll -->
+    <rect x="4" y="36" width="32" height="8" rx="4" opacity="0.8"/>
+    <!-- Text lines -->
+    <rect x="12" y="16" width="16" height="2" rx="1" opacity="0.6"/>
+    <rect x="12" y="22" width="12" height="2" rx="1" opacity="0.6"/>
+    <rect x="12" y="28" width="14" height="2" rx="1" opacity="0.6"/>
+    <!-- Quill accent -->
+    <path d="M34 2 L38 12 L36 14 L32 6 Z" opacity="0.7"/>
+  </g>
+</svg>

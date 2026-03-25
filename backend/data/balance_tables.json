@@ -1,0 +1,12 @@
+{
+  "gold_per_level": 80,
+  "gold_variance": 0.2,
+  "exp_per_level": 50,
+  "exp_variance": 0.2,
+  "difficulty_multiplier": {
+    "easy": 0.7,
+    "normal": 1.0,
+    "hard": 1.4,
+    "legendary": 2.0
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "winter_market",
+    "name": "겨울 시장의 비밀",
+    "npc": {"name": "리라", "personality": "쾌활한 상인", "occupation": "상인"},
+    "world": {"genre": "다크 판타지", "season_or_situation": "겨울, 의문의 거래", "special_notes": "시장에 수상한 외부인들이 출몰"},
+    "game_state": {"player_level": 12, "affinity": "high", "quest_type": "main"}
+  },
+  {
+    "id": "dragon_nest",
+    "name": "용의 둥지",
+    "npc": {"name": "카이른", "personality": "과묵한 기사", "occupation": "기사"},
+    "world": {"genre": "하이 판타지", "season_or_situation": "여름, 드래곤 출현", "special_notes": "왕국 변경에 드래곤 목격담"},
+    "game_state": {"player_level": 25, "affinity": "normal", "quest_type": "main"}
+  },
+  {
+    "id": "ruin_signal",
+    "name": "폐허의 신호",
+    "npc": {"name": "엘라", "personality": "호기심 많은 과학자", "occupation": "과학자"},
+    "world": {"genre": "SF (포스트아포칼립스)", "season_or_situation": "포스트아포칼립스, 미지 신호 수신", "special_notes": "폐허에서 정체불명의 전파 감지"},
+    "game_state": {"player_level": 18, "affinity": "normal", "quest_type": "side"}
+  },
+  {
+    "id": "martial_grudge",
+    "name": "강호의 원한",
+    "npc": {"name": "백무명", "personality": "과묵한 검객", "occupation": "검객"},
+    "world": {"genre": "무협", "season_or_situation": "가을, 문파 분쟁", "special_notes": "명문 정파 간 긴장 고조"},
+    "game_state": {"player_level": 30, "affinity": "high", "quest_type": "main"}
+  },
+  {
+    "id": "harvest_festival",
+    "name": "수확제 소동",
+    "npc": {"name": "미나", "personality": "다정한 농부", "occupation": "농부"},
+    "world": {"genre": "코지 판타지", "season_or_situation": "가을 축제, 도난 사건", "special_notes": "축제 준비 중 귀중품 도난"},
+    "game_state": {"player_level": 5, "affinity": "high", "quest_type": "side"}
+  }
+]
