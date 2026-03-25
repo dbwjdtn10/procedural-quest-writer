@@ -9,7 +9,7 @@
 
 ## 🎮 라이브 데모
 
-👉 [quest-writer.vercel.app](https://quest-writer.vercel.app) *(배포 시 업데이트)*
+👉 [procedural-quest-writer.vercel.app](https://procedural-quest-writer.vercel.app)
 
 ## ✨ 주요 기능
 
